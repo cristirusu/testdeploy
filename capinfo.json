@@ -1,0 +1,11 @@
+{
+  "code_repository": "git@github.com:cristirusu/testcristi-wp.dev.git",
+  "code_directory": "",
+  "type": "wordpress",
+  "project_name": "testcristi-wp",
+  "wp_directory": "wp/",
+  "wp_content_directory": "wp-content/",
+  "wp_version": "trunk",
+  "database_name": "p_testcristi-wp",
+  "dev_domain": "testcristi-wp.dev"
+}
