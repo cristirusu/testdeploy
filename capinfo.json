@@ -6,6 +6,6 @@
   "wp_directory": "wp/",
   "wp_content_directory": "wp-content/",
   "wp_version": "trunk",
-  "database_name": "p_testcristi-wp",
+  "database_name": "p_testcristi",
   "dev_domain": "testcristi-wp.dev"
 }
